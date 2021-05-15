@@ -8,6 +8,7 @@ class SimpleAuthorizationRestApplicationTests {
 
 	@Test
 	fun contextLoads() {
+		//do tests
 	}
 
 }
